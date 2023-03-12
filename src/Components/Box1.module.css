@@ -1,0 +1,14 @@
+.background{
+    background-image: url(../Images/Car_1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center; 
+    min-height: 500px;
+}
+.background2{
+    background-image: url(../Images/Car_2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    min-height: 500px;
+}
